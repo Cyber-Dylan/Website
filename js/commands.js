@@ -27,7 +27,7 @@ social = [
 
 secret = [
   "<br>",
-  '<span class="command">DontRunMe</span>           Please dont run it for the love of god',
+  '<span class="command">DONOTRUN</span>           Please dont run it for the love of god',
   "<br>"
 ];
 
