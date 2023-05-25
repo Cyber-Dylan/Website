@@ -45,7 +45,7 @@ function enterKey(e) {
       pw = false;
       liner.classList.remove("password");
     } else if (e.keyCode == 13) {
-      addLine("Wrong password", "error", 0);
+      addLine("Incorrect password, please smash your device with a hammer to try again.", "error", 0);
       command.innerHTML = "";
       textarea.value = "";
       pw = false;
