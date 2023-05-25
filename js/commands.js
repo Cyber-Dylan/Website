@@ -42,7 +42,6 @@ help = [
   '<span class="command">whois</span>          Who is the owner of this site?',
   '<span class="command">whoami</span>         Who are you in case you don\'t know?',
   '<span class="command">social</span>         Links to my socials',
-  '<span class="command">secret</span>         Thats a secret :)',
   '<span class="command">projects</span>       View coding projects',
   '<span class="command">history</span>        View command history',
   '<span class="command">help</span>           Run this if you are stuck or bc why not?',
