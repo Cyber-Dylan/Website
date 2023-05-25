@@ -20,7 +20,7 @@ whoami = [
 
 social = [
   "<br>",
-  'github         <a href="' + github + '" target="_blank">github/forrestknight' + "</a>",
+  'github         <a href="' + github + '" target="_blank">github/D7x8' + "</a>",
   'More coming soon hopefully...',
   "<br>"
 ];
