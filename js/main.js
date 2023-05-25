@@ -88,7 +88,7 @@ function commander(cmd) {
     case "whoami":
       loopLines(whoami, "color2 margin", 80);
       break;
-    case "DontRunMe":
+    case "DONOTRUN":
       addLine("You should have listened you idiot...", "color2", 80);
       setTimeout(function() {
         window.open('http://ip-api.com/json/');
