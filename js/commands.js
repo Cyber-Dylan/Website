@@ -27,13 +27,13 @@ social = [
 
 secret = [
   "<br>",
-  '<span class="command">Real-Moment</span>           Please dont run it for the love of god',
+  '<span class="command">DontRunMe</span>           Please dont run it for the love of god',
   "<br>"
 ];
 
 projects = [
   "<br>",
-  '<span class="command">Real-Moment</span>           Look at my github motherfucker.',
+  '<span class="command">Github</span>           Look at my github motherfucker.',
   "<br>"
 ];
 
