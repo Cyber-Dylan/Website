@@ -62,6 +62,6 @@ banner = [
                                   
     
                                                         
-  '<span class="color2">Yes this is an interactive website, and yes you can play around with it :).</span>',
+  '<span class="color2">Welcome to my interactive terminal themed website 🎉.</span>',
   "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];
