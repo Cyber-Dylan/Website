@@ -26,7 +26,7 @@ social = [
 
 secret = [
   "<br>",
-  '<span class="command">DONOTRUN</span>           Please dont run it for the love of god',
+  '<span class="command">cool</span>           you got the password now go do something with your life',
   "<br>"
 ];
 
@@ -45,27 +45,23 @@ help = [
   '<span class="command">history</span>        View some history stuff :)',
   '<span class="command">help</span>           Run this if you are as clueless as me',
   '<span class="command">clear</span>          CLEAR YOUR FUCKING PAGE',
-  '<span class="command">neofetch</span>         Does the cool ascii thing :D',
+  '<span class="command">banner</span>         Does the cool ascii thing :D',
   "<br>",
 ];
 
 banner = [
 
-"guest@d7x8.pages.dev",
-"--------------------",
-"OS: Linux x86_64",
-"Host: D7x8.pages.dev",
-"Uptime: Since 26/5/2023 ",
-"Packages: 6 (git)",
-"Shell: D7x8-web",
-"Resolution: 1366x725",
-"Theme: WebTerminal",
-"License: NONE :)",
-"Version: 2.3.8",
-"Memory: 831MiB  / 3483MiB",
-
-
-
+" guest@d7x8.pages.dev:$ ~ banner",
+"                                ",
+" ██████╗ ███████╗██╗  ██╗ █████╗",
+" ██╔══██╗╚════██║╚██╗██╔╝██╔══██╗",
+" ██║  ██║    ██╔╝ ╚███╔╝ ╚█████╔╝",
+" ██║  ██║   ██╔╝  ██╔██╗ ██╔══██╗",
+" ██████╔╝   ██║  ██╔╝ ██╗╚█████╔╝",
+" ╚═════╝    ╚═╝  ╚═╝  ╚═╝ ╚════╝",
+                                  
+    
+                                                        
   '<span class="color2">Yes this is an interactive website, and yes you can play around with it :).</span>',
   "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];

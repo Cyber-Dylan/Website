@@ -55,7 +55,7 @@ function enterKey(e) {
     if (e.keyCode == 13) {
       commands.push(command.innerHTML);
       git = commands.length;
-      addLine("Guest@WebsiteTerminal:~$ " + command.innerHTML, "no-animation", 0);
+      addLine("guest@d7x8.pages.dev:$ ~" + command.innerHTML, "no-animation", 0);
       commander(command.innerHTML.toLowerCase());
       command.innerHTML = "";
       textarea.value = "";
@@ -87,12 +87,6 @@ function commander(cmd) {
       break;
     case "whoami":
       loopLines(whoami, "color2 margin", 80);
-      break;
-    case "DONOTRUN":
-      addLine(DONOTRUN, "color2", 80);
-      setTimeout(function() {
-        window.open('http://ip-api.com/json/');
-      }, 1000); 
       break;
     case "social":
       loopLines(social, "color2 margin", 80);
