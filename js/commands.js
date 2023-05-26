@@ -45,22 +45,22 @@ help = [
   '<span class="command">history</span>        View some history stuff :)',
   '<span class="command">help</span>           Run this if you are as clueless as me',
   '<span class="command">clear</span>          CLEAR YOUR FUCKING PAGE',
-  '<span class="command">banner</span>         Does the cool ascii thing :D',
+  '<span class="command">neofetch</span>         Does the cool ascii thing :D',
   "<br>",
 ];
 
 banner = [
 
-"                                        |",
-"                                      \ _ /",
-"                                    -= (_) =-",
-"   .\/.                               /   \",
-".\\//o\\                      ,\/.      |              ,~",
-"//o\\|,\/.   ,.,.,   ,\/.  ,\//o\\                     |\",
-"  |  |//o\  /###/#\  //o\  /o\\|                      /| \",
-"^^|^^|^~|^^^|' '|:|^^^|^^^^^|^^|^^^""""""""("~~~~~~~~/_|__\~~~~~~~~~~",
-" .|'' . |  '''""'"''. |`===`|''  '"" "" " (" ~~~~ ~ ~======~~  ~~ ~",
-" ^^^^^   ^^^ ^ ^^^ ^^^^ ^^^ ^^ ^^ "" """( " ~~~~~~ ~~~~~  ~~~ ~",
+"  Guest@WebTerminal 
+"  --------------- 
+"  OS: Linux x86_64 
+"  Host: Cloudflare Infurstructure 
+"  Kernel: WebTerm 8.3.4
+"  Uptime: Since 5/6/2023 
+"  Packages: 6
+"  Shell: HTML5
+"  Terminal: /dev/D7x8-terminal
+"  Memory: 830MiB / 3483MiB
 
 
   '<span class="color2">Yes this is an interactive website, and yes you can play around with it :).</span>',
