@@ -5,8 +5,8 @@ var github = "https://github.com/D7x8/";
 whois = [
   "<br>",
   "Hello there, I see you have found my website, allow me to introduce myself :)",
-  "I am known online as D7x8, I thought of my psydonym by using my brain as well",
-  "as wanting a 4 letter username on websites.",
+  "I am known online as D7x8, I thought of my psydonym by using my brain",
+  "Thanks for reading, have fun on my site as there may be a secret somewhere...",
   
   "<br>"
 ];
