@@ -1,4 +1,3 @@
-var twitter = "https://www.twitter.com/D7x8_/";
 var password = "LET_ME_IN_MOTHERFUCKER";
 //var linkedin = "";
 var github = "https://github.com/D7x8/";
