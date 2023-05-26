@@ -51,16 +51,19 @@ help = [
 
 banner = [
 
-"  Guest@WebTerminal 
-"  --------------- 
-"  OS: Linux x86_64 
-"  Host: Cloudflare Infurstructure 
-"  Kernel: WebTerm 8.3.4
-"  Uptime: Since 5/6/2023 
-"  Packages: 6
-"  Shell: HTML5
-"  Terminal: /dev/D7x8-terminal
-"  Memory: 830MiB / 3483MiB
+"guest@d7x8.pages.dev
+"--------------------
+"OS: Linux x86_64",
+"Host: D7x8.pages.dev",
+"Uptime: Since 26/5/2023 ",
+"Packages: 6 (git)",
+"Shell: D7x8-web",
+"Resolution: 1366x725",
+"Theme: WebTerminal",
+"License: NONE :)",
+"Version: 2.3.8",
+"Memory: 831MiB  / 3483MiB",
+
 
 
   '<span class="color2">Yes this is an interactive website, and yes you can play around with it :).</span>',
