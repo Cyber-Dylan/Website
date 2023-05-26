@@ -51,8 +51,8 @@ help = [
 
 banner = [
 
-"guest@d7x8.pages.dev
-"--------------------
+"guest@d7x8.pages.dev",
+"--------------------",
 "OS: Linux x86_64",
 "Host: D7x8.pages.dev",
 "Uptime: Since 26/5/2023 ",
