@@ -117,7 +117,7 @@ function commander(cmd) {
       break;
     case "github":
       addLine("Opening GitHub...", "color2", 0);
-      newTab(github);
+      newTab(Github);
       break;
     case "telegram":
       addLine("Opening Telegram...", "color2", 0);
