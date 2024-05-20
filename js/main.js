@@ -115,14 +115,17 @@ function commander(cmd) {
     case "banner":
       loopLines(banner, "", 80);
       break;
-    // socials
-    //case "linkedin":
-    //  addLine("Opening LinkedIn...", "color2", 0);
-    //  newTab(linkedin);
-    //  break;
     case "github":
       addLine("Opening GitHub...", "color2", 0);
       newTab(github);
+      break;
+    case "telegram":
+      addLine("Opening Telegram...", "color2", 0);
+      newTab(Telegram);
+      break;
+    case "email":
+      addLine("Opening Email...", "color2", 0);
+      newTab(Email);
       break;
     default:
       addLine("<span class=\"inherit\">Command not found. For a list of commands, type <span class=\"command\">'help'</span>.</span>", "error", 100);
