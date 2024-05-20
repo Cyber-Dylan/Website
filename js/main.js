@@ -20,7 +20,7 @@ console.log(
   "%hi.",
   "color: #04ff00; font-weight: bold; font-size: 24px;"
 );
-console.log("%csecret: '" + secret + "' - Uh Oh", "color: grey");
+console.log("%cpassword: '" + password + "' - Uh Oh", "color: grey");
 
 //init
 textarea.value = "";
@@ -34,22 +34,22 @@ function enterKey(e) {
     let et = "*";
     let w = textarea.value.length;
     command.innerHTML = et.repeat(w);
-    if (textarea.value === secret) {
+    if (textarea.value === password) {
       pwd = true;
     }
     if (pwd && e.keyCode == 13) {
-      loopLines(secret, "color2 margin", 120);
+      loopLines(password, "color2 margin", 120);
       command.innerHTML = "";
       textarea.value = "";
       pwd = false;
       pw = false;
-      liner.classList.remove("secret");
+      liner.classList.remove("password");
     } else if (e.keyCode == 13) {
       addLine("Incorrect password, please smash your device with a hammer to try again.", "error", 0);
       command.innerHTML = "";
       textarea.value = "";
       pw = false;
-      liner.classList.remove("secret");
+      liner.classList.remove("password");
     }
   } else {
     if (e.keyCode == 13) {
@@ -91,14 +91,14 @@ function commander(cmd) {
     case "social":
       loopLines(social, "color2 margin", 80);
       break;
-    case "secret":
-      liner.classList.add("secret");
+    case "password":
+      liner.classList.add("password");
       pw = true;
       break;
     case "projects":
       loopLines(projects, "color2 margin", 80);
       break;
-    case "secret":
+    case "password":
       addLine("<span class=\"inherit\"> Incorrect password, please smash your device with a hammer to try again. </span>", "error", 100);
       break;
     case "history":
