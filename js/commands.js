@@ -1,4 +1,4 @@
-var password = "UGFzc3dvcmQxMjMgKERPIE5PVCBVU0Up"; //This password does NOT contain a secret encoded message and is NOT an idea for a password yoou should use...
+var password = "UGFzc3dvcmQxMjMgKERPIE5PVCBVU0Up"; //This password does NOT contain a secret encoded message and is NOT an idea for a password you should use...
 var Github = "https://github.com/Cyber-Dylan/";
 var Telegram = "https://t.me/terminator3070/"
 var Email = "cyberdylan.purge278@passinbox.com/";
@@ -6,7 +6,7 @@ var Email = "cyberdylan.purge278@passinbox.com/";
 whois = [
   "<br>",
   "Hello there, I see you have found my website, allow me to introduce myself:",
-  "My name is Dylan, I study hacking/cybersec, programming, system administration and more!.",
+  "My name is Dylan, I study hacking/cybersec, programming, system administration and more!",
   "Thanks for reading, have fun on my site as there may be a secret somewhere...",
   
   "<br>"
@@ -54,7 +54,7 @@ help = [
 
 banner = [
 
-" guest@Cyber-Dylan.github.io:$ ~",
+" guest@cyber-dylan.github.io:$ ~",
 "                                ",
 "​​​░██████╗██╗   ██╗██████╗ ███████╗██████╗       ██████╗ ██╗   ██╗██╗      █████╗ ███╗   ██╗",
 "██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗      ██╔══██╗╚██╗ ██╔╝██║     ██╔══██╗████╗  ██║",
