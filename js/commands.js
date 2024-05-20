@@ -6,7 +6,7 @@ var Email = "cyberdylan.purge278@passinbox.com/";
 whois = [
   "<br>",
   "Hello there, I see you have found my website, allow me to introduce myself:",
-  "My name is Dylan, I study hacking/cybersec, programming, system administration and more!.",
+  "My name is Dylan, I study hacking/cybersec, programming, system administration and more!",
   "Thanks for reading, have fun on my site as there may be a secret somewhere...",
   
   "<br>"
