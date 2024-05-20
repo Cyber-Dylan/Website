@@ -1,7 +1,7 @@
 var password = "UGFzc3dvcmQxMjMgKERPIE5PVCBVU0Up"; //This password does NOT contain a secret encoded message and is NOT an idea for a password you should use...
 var Github = "https://github.com/Cyber-Dylan/";
 var Telegram = "https://t.me/terminator3070/"
-var Email = "cyberdylan.purge278@passinbox.com/";
+var Email = "https://cyberdylan.purge278@passinbox.com";
 
 whois = [
   "<br>",

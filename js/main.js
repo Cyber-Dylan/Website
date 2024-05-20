@@ -124,8 +124,7 @@ function commander(cmd) {
       newTab(Telegram);
       break;
     case "email":
-      addLine("Opening Email...", "color2", 0);
-      newTab(Email);
+      addLine("Please copy and paste the email into your email client.", "color2", 0);
       break;
     default:
       addLine("<span class=\"inherit\">Command not found. For a list of commands, type <span class=\"command\">'help'</span>.</span>", "error", 100);
