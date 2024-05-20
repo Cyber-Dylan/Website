@@ -55,7 +55,7 @@ function enterKey(e) {
     if (e.keyCode == 13) {
       commands.push(command.innerHTML);
       git = commands.length;
-      addLine("guest@d7x8.pages.dev:$ ~" + command.innerHTML, "no-animation", 0);
+      addLine("guest@Cyber-Dylan.github.io:$ ~" + command.innerHTML, "no-animation", 0);
       commander(command.innerHTML.toLowerCase());
       command.innerHTML = "";
       textarea.value = "";

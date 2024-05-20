@@ -1,11 +1,12 @@
-var password = "LET_ME_IN_MOTHERFUCKER";
-//var linkedin = "";
-var github = "https://github.com/D7x8/";
+var password = "UGFzc3dvcmQxMjMgKERPIE5PVCBVU0Up"; //This password does NOT contain a secret encoded message and is NOT an idea for a password yoou should use...
+var Github = "https://github.com/Cyber-Dylan/";
+var Telegram = "https://t.me/terminator3070/"
+var Email = "cyberdylan.purge278@passinbox.com/";
 
 whois = [
   "<br>",
-  "Hello there, I see you have found my website, allow me to introduce myself :)",
-  "I am known online as D7x8, I thought of my psydonym by using my brain.",
+  "Hello there, I see you have found my website, allow me to introduce myself:",
+  "My name is Dylan, I study hacking/cybersec, programming, system administration and more!.",
   "Thanks for reading, have fun on my site as there may be a secret somewhere...",
   
   "<br>"
@@ -19,7 +20,9 @@ whoami = [
 
 social = [
   "<br>",
-  'github         <a href="' + github + '" target="_blank">github/D7x8' + "</a>",
+  'Github           <a href="' + Github + '" target="_blank">Github/Cyber-Dylan' + "</a>",
+  'Telegram         <a href="' + Telegram + '" target="_blank">Telegram/Cyber-Dylan' + "</a>",
+  'Email            <a href="' + Email + '" target="_blank">CyberDylan.purge278@passinbox.com/' + "</a>",
   'More coming soon hopefully...',
   "<br>"
 ];
@@ -32,36 +35,39 @@ secret = [
 
 projects = [
   "<br>",
-  '<span class="command">Github</span>           Look at my github motherfucker.',
+  '<span class="command">Github</span>           Projects are on my Github.',
   "<br>"
 ];
 
 help = [
   "<br>",
-  '<span class="command">whois</span>          Who is the owner of this site?',
-  '<span class="command">whoami</span>         Who are you in case you don\'t know?',
-  '<span class="command">social</span>         Links to my socials',
-  '<span class="command">projects</span>       View my current and past projects',
-  '<span class="command">history</span>        View some history stuff :)',
-  '<span class="command">help</span>           Run this if you are as clueless as me',
-  '<span class="command">clear</span>          CLEAR YOUR FUCKING PAGE',
+  '<span class="command">whois</span>          Pulls up information about me.',
+  '<span class="command">whoami</span>         Who are you in case you don\'t know.',
+  '<span class="command">social</span>         Links to my socials.',
+  '<span class="command">projects</span>       View my projects.',
+  '<span class="command">history</span>        View command history.',
+  '<span class="command">help</span>           Type "help" for a list of commands.',
+  '<span class="command">clear</span>          Clears the terminal.',
   '<span class="command">banner</span>         Does the cool ascii thing :D',
   "<br>",
 ];
 
 banner = [
 
-" guest@d7x8.pages.dev:$ ~ banner",
+" guest@Cyber-Dylan.github.io:$ ~",
 "                                ",
-" ██████╗ ███████╗██╗  ██╗ █████╗",
-" ██╔══██╗╚════██║╚██╗██╔╝██╔══██╗",
-" ██║  ██║    ██╔╝ ╚███╔╝ ╚█████╔╝",
-" ██║  ██║   ██╔╝  ██╔██╗ ██╔══██╗",
-" ██████╔╝   ██║  ██╔╝ ██╗╚█████╔╝",
-" ╚═════╝    ╚═╝  ╚═╝  ╚═╝ ╚════╝",
+"​​​░██████╗██╗   ██╗██████╗ ███████╗██████╗       ██████╗ ██╗   ██╗██╗      █████╗ ███╗   ██╗",
+"██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗      ██╔══██╗╚██╗ ██╔╝██║     ██╔══██╗████╗  ██║",
+"██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝█████╗██║  ██║ ╚████╔╝ ██║     ███████║██╔██╗ ██║",
+"██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗╚════╝██║  ██║  ╚██╔╝  ██║     ██╔══██║██║╚██╗██║",
+"╚██████╗   ██║   ██████╔╝███████╗██║  ██║      ██████╔╝   ██║   ███████╗██║  ██║██║ ╚████║",
+"░╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝      ╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝",
+                                                                                          
+
+
                                   
     
                                                         
   '<span class="color2">Welcome to my interactive terminal themed website 🎉.</span>',
-  "<span class=\"color2\">For a list of awesome commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
+  "<span class=\"color2\">For a list of commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];
