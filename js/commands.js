@@ -21,7 +21,7 @@ social = [
   "<br>",
   'Github           <a href="' + Github + '" target="_blank">Github/Cyber-Dylan' + "</a>",
   'Telegram         <a href="' + Telegram + '" target="_blank">Telegram/Cyber-Dylan' + "</a>",
-  'Email            <a href="' + Email + '" target="_blank">CyberDylan.purge278@passinbox.com/' + "</a>",
+  'Email            <a href="' + Email + '" target="_blank">cyberdylan.b36dw@slmail.me/' + "</a>",
   'More coming soon hopefully...',
   "<br>"
 ];
