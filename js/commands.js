@@ -6,7 +6,7 @@ whois = [
   "<br>",
   "Hello there, I see you have found my website, allow me to introduce myself:",
   "My name is Dylan, I study hacking/cybersec, programming, system administration and more!",
-  "Thanks for reading, have fun on my site as there may be a secret somewhere...",
+  "Thanks for reading.",
   
   "<br>"
 ];
