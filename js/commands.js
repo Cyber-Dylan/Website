@@ -1,7 +1,6 @@
 //Commands
 var Github = "https://github.com/Cyber-Dylan/";
-var Telegram = "https://t.me/terminator3070/"
-var Email = "cyberdylan.b36dw@slmail.me";
+var Email = "dylan.r8uax@slmail.me";
 
 whois = [
   "<br>",
