@@ -20,8 +20,6 @@ console.log(
   "%hi.",
   "color: #04ff00; font-weight: bold; font-size: 24px;"
 );
-console.log("%cpassword: '" + password + "' - Uh Oh", "color: grey");
-
 //init
 textarea.value = "";
 command.innerHTML = textarea.value;
@@ -55,7 +53,7 @@ function enterKey(e) {
     if (e.keyCode == 13) {
       commands.push(command.innerHTML);
       git = commands.length;
-      addLine("guest@cyber-dylan.github.io:$ ~" + command.innerHTML, "no-animation", 0);
+      addLine("guest@cyber-dylan.dev:$ ~" + command.innerHTML, "no-animation", 0);
       commander(command.innerHTML.toLowerCase());
       command.innerHTML = "";
       textarea.value = "";
@@ -95,8 +93,8 @@ function commander(cmd) {
       liner.classList.add("password");
       pw = true;
       break;
-    case "projects":
-      loopLines(projects, "color2 margin", 80);
+    case "services":
+      loopLines(services, "color2 margin", 80);
       break;
     case "password":
       addLine("<span class=\"inherit\"> Incorrect password, please smash your device with a hammer to try again. </span>", "error", 100);
@@ -119,12 +117,9 @@ function commander(cmd) {
       addLine("Opening GitHub...", "color2", 0);
       newTab(Github);
       break;
-    case "telegram":
-      addLine("Opening Telegram...", "color2", 0);
-      newTab(Telegram);
-      break;
     case "email":
-      addLine("Please copy and paste the email into your email client.", "color2", 0);
+      addLine("Opening Email...", "color2", 0);
+      (Email)
       break;
     default:
       addLine("<span class=\"inherit\">Command not found. For a list of commands, type <span class=\"command\">'help'</span>.</span>", "error", 100);
