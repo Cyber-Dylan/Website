@@ -33,7 +33,7 @@ secret = [
 
 services = [
   "<br>",
-  '<span class="command">Services</span>           I offer Vaultwarden (with 100MB of attachment storage), Jellyfin, and Nexcloud storage. Email me for the requirements',
+  '<span class="command">Services</span>           I offer Vaultwarden (with 100MB of attachment storage), Jellyfin, and Nexcloud storage. Email me for the requirements.',
   "<br>"
 ];
 
@@ -54,13 +54,13 @@ banner = [
 
 " guest@cyber-dylan.dev:$ ~",
 "                                ",
+"*                                                             *",
 "██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗",
 "██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝",
-"██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗",  
+"██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗  *",  
 "██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝",  
 "╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗",
-" ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝",
-                                                              
+"*╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝*",                                                              
 
 
                                                                                           
