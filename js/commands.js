@@ -52,7 +52,7 @@ help = [
 
 banner = [
 
-" guest@cyber-dylan.dev:$ ~",
+" guest@cyberdylan.dev:$ ~",
 "                                ",
 "*                                                             *",
 "██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗",
