@@ -61,7 +61,7 @@ b {
 }
 #liner::before {
   color: hwb(0 100% 0%);
-  content: "guest@cyber-dylan.dev:$ ~";
+  content: "guest@dylantaylor.dev:$ ~";
 }
 #liner.password::before {
   content: "Password:";
