@@ -22,7 +22,7 @@ social = [
   "<br>",
   'Github           <a href="' + Github + '" target="_blank">Github/dizzle0' + "</a>",
   'Email            <a href="' + Email + '" target="_blank">dylan@dylantaylor.dev' + "</a>",
-  "Hint: You can type 'github' or 'email' to open these links directly!",
+  "Hint: You can type the name of the platform to open the link directly!",
   "<br>"
 ];
 
