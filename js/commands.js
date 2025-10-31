@@ -4,7 +4,7 @@ var Email = "mailto:dylan@dylantaylor.dev";
 
 whois = [
   "<br>",
-  "Hello!:",
+  "Hello!",
   "My name is Dylan, I study Computer Science at Victoria University of Wellington.",
   "My passions are Cybersecurity, System Administration, knowledge on UNIX like systems, and HomeLabbing.",
   "Thanks for reading.",
