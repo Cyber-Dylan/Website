@@ -40,7 +40,7 @@ help = [
   "<br>",
   '<span class="command">whois</span>          Pulls up information about me.',
   '<span class="command">whoami</span>         Who are you in case you don\'t know.',
-  '<span class="command">social</span>         Links to my socials.',
+  '<span class="command">contact</span>        Links to my contact information.',
   '<span class="command">history</span>        View command history.',
   '<span class="command">help</span>           Type "help" for a list of commands. (You just did that though :))',
   '<span class="command">clear</span>          Clears the terminal.',
