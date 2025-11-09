@@ -85,8 +85,8 @@ function commander(cmd) {
     case "whoami":
       loopLines(whoami, "color2 margin", 80);
       break;
-    case "social":
-      loopLines(social, "color2 margin", 80);
+    case "contact":
+      loopLines(contact, "color2 margin", 80);
       break;
     case "history":
       addLine("<br>", "", 0);
