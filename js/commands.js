@@ -1,7 +1,7 @@
 //Commands
 var Github = "https://github.com/dizzle0/";
 var Email = "mailto:contact@dylantaylor.dev";
-var LinkedIn = "https://www.linkedin.com/in/dylan-taylor-123456789/";
+var LinkedIn = "www.linkedin.com/in/dylan-taylor2006";
 var Mastodon = "https://mastodon.social/@dylan";
 var Signal = "https://signal.me/#eu/hQJtWOvE1Uk0vVZ8vRylg6nor_rKMmfMdBw2cOCJrFdv5atVzCJDjZaEriYMcc9_";
 
@@ -25,7 +25,7 @@ contact = [
   "<br>",
   'Github           <a href="' + Github + '" target="_blank">Github/dizzle0' + "</a>",
   'Email            <a href="' + Email + '" target="_blank">contact@dylantaylor.dev' + "</a>",
-  'LinkedIn         <a href="' + LinkedIn + '" target="_blank">LinkedIn/dylan-taylor-123456789' + "</a>",
+  'LinkedIn         <a href="' + LinkedIn + '" target="_blank">LinkedIn/dylan-taylor2006' + "</a>",
   'Mastodon         <a href="' + Mastodon + '" target="_blank">Mastodon/@dylan' + "</a>",
   'Signal           <a href="' + Signal + '" target="_blank">Signal/dylan' + "</a>",
   "Hint: You can type the name of the platform to open the link directly!",
