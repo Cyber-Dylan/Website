@@ -1,6 +1,9 @@
 //Commands
 var Github = "https://github.com/dizzle0/";
-var Email = "mailto:dylan@dylantaylor.dev";
+var Email = "mailto:contact@dylantaylor.dev";
+var LinkedIn = "https://www.linkedin.com/in/dylan-taylor-123456789/";
+var Mastodon = "https://mastodon.social/@dylan";
+var Signal = "https://signal.me/#eu/hQJtWOvE1Uk0vVZ8vRylg6nor_rKMmfMdBw2cOCJrFdv5atVzCJDjZaEriYMcc9_";
 
 whois = [
   "<br>",
@@ -18,10 +21,17 @@ whoami = [
   "<br>"
 ];
 
-social = [
+contact = [
   "<br>",
   'Github           <a href="' + Github + '" target="_blank">Github/dizzle0' + "</a>",
+<<<<<<< Updated upstream
   'Email            <a href="' + Email + '" target="_blank">contact@dylantaylor.dev' + "</a>",
+=======
+  'Email            <a href="' + Email + '" target="_blank">dylan@dylantaylor.dev' + "</a>",
+  'LinkedIn         <a href="' + LinkedIn + '" target="_blank">LinkedIn/dylan-taylor-123456789' + "</a>",
+  'Mastodon         <a href="' + Mastodon + '" target="_blank">Mastodon/@dylan' + "</a>",
+  'Signal           <a href="' + Signal + '" target="_blank">Signal/dylan' + "</a>",
+>>>>>>> Stashed changes
   "Hint: You can type the name of the platform to open the link directly!",
   "<br>"
 ];
