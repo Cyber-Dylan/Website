@@ -4,12 +4,13 @@ var Email = "mailto:dylan@dylantaylor.dev";
 var LinkedIn = "www.linkedin.com/in/dylan-taylor2006";
 var Mastodon = "https://mastodon.social/@dylan";
 var Signal = "https://signal.me/#eu/hQJtWOvE1Uk0vVZ8vRylg6nor_rKMmfMdBw2cOCJrFdv5atVzCJDjZaEriYMcc9_";
+var blog = "https://dylantaylor.net";
 
 whois = [
   "<br>",
   "Hello!",
   "My name is Dylan, I study Computer Science at Victoria University of Wellington.",
-  "My passions are Cybersecurity, System Administration, knowledge on UNIX like systems, and HomeLabbing.",
+  "My passions are Cybersecurity/Hacking, Networking, System Administration, knowledge on UNIX like systems, and HomeLabbing.",
   "Thanks for reading.",
   
   "<br>"
@@ -24,7 +25,7 @@ whoami = [
 contact = [
   "<br>",
   'Github           <a href="' + Github + '" target="_blank">Github/dizzle0' + "</a>",
-  'Email            <a href="' + Email + '" target="_blank">dylan@dylantaylor.dev' + "</a>",
+  'Email            <a href="' + Email + '" target="_blank">contact@dylantaylor.net' + "</a>",
   'LinkedIn         <a href="' + LinkedIn + '" target="_blank">LinkedIn/dylan-taylor2006' + "</a>",
   'Mastodon         <a href="' + Mastodon + '" target="_blank">Mastodon/@dylan' + "</a>",
   'Signal           <a href="' + Signal + '" target="_blank">Signal/dylan' + "</a>",
