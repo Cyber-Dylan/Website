@@ -1,6 +1,6 @@
 //Commands
 var Github = "https://github.com/dizzle0/";
-var Email = "mailto:dylan@dylantaylor.dev";
+var Email = "mailto:contact@dylantaylor.net";
 var LinkedIn = "www.linkedin.com/in/dylan-taylor2006";
 var Mastodon = "https://mastodon.social/@dylan";
 var Signal = "https://signal.me/#eu/hQJtWOvE1Uk0vVZ8vRylg6nor_rKMmfMdBw2cOCJrFdv5atVzCJDjZaEriYMcc9_";
@@ -47,7 +47,7 @@ help = [
 
 banner = [
 
-" guest@dylantaylor.dev:$ ~",
+" guest@dizzled.dev:$ ~",
 "                                ",
 "*                                                             *",
 "██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗",
